@@ -20,6 +20,7 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 - [Zora Magic Machine Frame](https://paragraph.xyz/@zora/zora-magic-machine/) - Zora newsletter
 - [Rock Paper Scissors Frame](https://xmtp-frame-rock-paper-scissors.vercel.app/) - Rock paper scissors game.
 - [SlideFrame](https://slideframe.replit.app/) - Easily share presentation slides in a frame.
+- [Memester](https://memeagent.codeminto.com/) - Unleash your creativity, compete for prizes, and make memes matter on Memester's blockchain-powered platform!
 
 **open-source**
 
